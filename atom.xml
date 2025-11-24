@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shirunhao.com</id>
+    <title>Runhao Shi</title>
+    <updated>2025-11-24T10:16:54.998Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shirunhao.com"/>
+    <link rel="self" href="https://shirunhao.com/atom.xml"/>
+    <subtitle>结束，还是开始？</subtitle>
+    <logo>https://shirunhao.com/images/avatar.png</logo>
+    <icon>https://shirunhao.com/favicon.ico</icon>
+    <rights>All rights reserved 2025, Runhao Shi</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我选择IBKR]]></title>
+        <id>https://shirunhao.com/post/wei-shi-me-wo-xuan-ze-ibkr/</id>
+        <link href="https://shirunhao.com/post/wei-shi-me-wo-xuan-ze-ibkr/">
+        </link>
+        <updated>2025-11-24T09:46:20.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="为什么我选择-ibkr">为什么我选择 IBKR？</h1>
+<p>我为什么不用 Stake、moomoo、Webull，而选择 IBKR？</p>
+<blockquote>
+<p><strong>一句话：IBKR 是目前唯一一个“够便宜、够安全、市场够全、能用很多年”的券商。</strong></p>
+</blockquote>
+<hr>
+<h2 id="1-市场覆盖不止是美股">1. 市场覆盖：不止是美股</h2>
+<p>大部分 App 只能买：</p>
+<ul>
+<li>美股</li>
+<li>少量澳股或亚洲股</li>
+</ul>
+<p>IBKR 可以买：</p>
+<ul>
+<li>美股、加股、欧股、港股、日股、新加坡、澳股</li>
+<li>部分印度市场</li>
+<li>债券、期货、外汇、全球 ETF</li>
+</ul>
+<p><strong>如果你以后也想做全球资产配置，只用一个 IBKR 就够。</strong></p>
+<hr>
+<h2 id="2-手续费更低-更透明">2. 手续费更低、更透明</h2>
+<ul>
+<li>美股单笔佣金大约 <strong>$0.35</strong></li>
+<li>汇兑费用极低，没有夸张的汇率差</li>
+<li>没有“买入免费卖出贵”“0 手续费但点差很大”这类套路</li>
+</ul>
+<p>对长期定投来说，<strong>手续费省下来的就是我的收益。</strong></p>
+<hr>
+<h2 id="3-安全性和监管级别更高">3. 安全性和监管级别更高</h2>
+<p>IBKR 同时受多国监管（美国 SEC/FINRA、英国 FCA、澳洲 ASIC 等），客户资金与公司自有资金分离，并有相应的投资者保护机制。</p>
+<p>简单理解：</p>
+<blockquote>
+<p>其他很多 APP 只是“帮你下单的中介”，<br>
+IBKR 是真正做清算结算的 <strong>一线大券商</strong>。</p>
+</blockquote>
+<p>这对打算长期把钱放在里面的人很重要。</p>
+<hr>
+<h2 id="4-工具专业但可从简单用起">4. 工具专业，但可从简单用起</h2>
+<p>IBKR 提供三种层级的界面：</p>
+<ul>
+<li><strong>Client Portal / 手机 App</strong>：适合新手简单下单、看持仓</li>
+<li><strong>IBKR Desktop / TWS</strong>：适合以后做更深入的研究、画图、策略</li>
+</ul>
+<p>我最近也下载了IBKR Desktop，只能说很难用，打算等投资水平提高之后，再学习使用更多功能。</p>
+<hr>
+<h2 id="小结">小结</h2>
+<p>如果只是偶尔买两只美股、玩玩短线，任何一款新手 APP 都够用。<br>
+但如果你打算像我一样：</p>
+<ul>
+<li>在澳洲长期生活</li>
+<li>每月定投美股 / ETF</li>
+<li>以后做全球资产配置</li>
+<li>希望一个平台可以用很多年</li>
+</ul>
+<p>那 <strong>IBKR 是更稳妥的选择</strong>。</p>
+<blockquote>
+<p>便宜、全球、专业、受监管 —— 这是我选 IBKR 的全部理由。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21/11/2025：第一笔 QQQ 定投实盘]]></title>
+        <id>https://shirunhao.com/post/21112025di-yi-bi-qqq-ding-tou-shi-pan/</id>
+        <link href="https://shirunhao.com/post/21112025di-yi-bi-qqq-ding-tou-shi-pan/">
+        </link>
+        <updated>2025-11-23T11:51:43.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>写于澳洲黄金海岸。<br>
+第一次在美股「买入」。</p>
+</blockquote>
+<hr>
+<h2 id="01-从-400-aud-开始的第一步">01. 从 400 AUD 开始的第一步</h2>
+<p>11月20日，申请的澳洲税号终于下来了，官网说28天以内，我的差不多三周邮寄到家。<br>
+有了税号后立刻注册了IBKR账户，然后我在 CommBank 里，对着手机犹豫了几秒钟，点下确认：</p>
+<ul>
+<li><strong>入金金额：</strong> 400 AUD</li>
+<li><strong>收款方：</strong> INTERACTIVE BROKERS（盈透证券）</li>
+<li><strong>账户：</strong> 342011 528056001</li>
+<li><strong>备注：</strong> U23084639 Runhao Shi（我的 IBKR 账号）</li>
+</ul>
+<p><img src="https://shirunhao.com/post-images/1763892189466.PNG" alt="" loading="lazy"><br>
+<img src="https://shirunhao.com/post-images/1763892263618.PNG" alt="" loading="lazy"></p>
+<p>说实话这个操作有点麻烦，在国内玩股票时候都是一键转账，还是说我APP选错了，不应该用IBKR，有没有推荐的？</p>
+<p>这 400 澳币，对现在的我来说不是一个小数目：</p>
+<ul>
+<li>它刚好是我在工地一天半的工资；</li>
+<li>也是我迈出「长期投资」这条路的第一个脚印。</li>
+</ul>
+<p>不过我很清楚：<br>
+<strong>这不是一次「赌一把」的操作，而是一场会持续 10 年、20 年的实验的起点。</strong></p>
+<hr>
+<h2 id="02-货币转换aud-usd">02. 货币转换：AUD → USD</h2>
+<p>资金到 IBKR 之后，下一步就是把澳币换成美元。</p>
+<ul>
+<li>转换前余额：<strong>400.00 AUD</strong></li>
+<li>汇率大约在：<strong>1 AUD ≈ 0.64 USD</strong></li>
+<li>计划全部换成美金，用来买入纳斯达克 100 指数基金 QQQ</li>
+</ul>
+<p>第一次操作外汇，我以为是要在【AUD.USD】那个页面操作，这个不建议新手搞，因为想换成美金要点卖出，而不是买入；后面发现人家app里面有个【转换】按钮，我直接填了 400 AUD 全额转换，结果系统提示：</p>
+<blockquote>
+<p>YOUR ORDER IS NOT ACCEPTED.<br>
+THERE IS INSUFFICIENT CASH [-3.09 AUD] IN YOUR ACCOUNT TO OBTAIN THE DESIRED POSITION.<br>
+<img src="https://shirunhao.com/post-images/1763892538287.PNG" alt="" loading="lazy"></p>
+</blockquote>
+<p>翻译成人话就是：<br>
+<strong>“手续费也要钱，你把钱算得太死了。”</strong></p>
+<p>最后我只好稍微调低一点金额，大概换出了 <strong>257.xx USD</strong> 左右。<br>
+这tm就是全球市场吗，移动资金都要精打细算。</p>
+<hr>
+<h2 id="03-买入-qqq第一次进场">03. 买入 QQQ：第一次「进场」</h2>
+<p>完成换汇后，我把目光投向那支熟悉的代码 —— <strong>QQQ</strong>。</p>
+<p>那天的盘面大概是这样：</p>
+<ul>
+<li>当天跌幅接近 <strong>-2%</strong> 以上，</li>
+<li>K 线一整天几乎都是一路往下溜，</li>
+<li>均线在上面缓缓压着。</li>
+</ul>
+<p>对我来说，这是两个信号：</p>
+<ol>
+<li>这是一个<strong>不太舒服的点位</strong>——因为它离历史高位不算远；</li>
+<li>但这也是一个<strong>不错的起点</strong>——至少不是在日内最高点冲进去。</li>
+</ol>
+<p>在开始定投之前，我考虑过按周定投还是按月定投这个问题，我的想法是：按周定投可以平滑我的成本，按月定投的话有点害怕买到当月最高点；但我突然想起一个关键问题那就是手续费，我如果按周定投，本金才400AUD，一个月分四次，手续费就得4～5美元/月，这纯纯副作用，所以还是选择按月定投，一次性400AUD。</p>
+<p>最终成交情况：</p>
+<ul>
+<li><strong>标的：</strong> QQQ（Invesco QQQ Trust）</li>
+<li><strong>买入方式：</strong> 限价单（Limit）</li>
+<li><strong>委托价格：</strong> 589.00 USD</li>
+<li><strong>成交价格：</strong> 589.00 USD</li>
+<li><strong>成交金额约：</strong> 250+ USD</li>
+<li><strong>持仓数量：</strong> 0.4244 股</li>
+<li><strong>平均成本：</strong> 591.36 USD（含费用）<br>
+<img src="https://shirunhao.com/post-images/1763893103513.PNG" alt="" loading="lazy"><br>
+是的，在 IBKR 里，<strong>我现在还买不起一整股 QQQ</strong>。<br>
+但这并不妨碍我成为纳斯达克 100 的一个小小长期股东。</li>
+</ul>
+<hr>
+<h2 id="04-上来就被套市场的第一课">04. 上来就被套：市场的第一课</h2>
+<p>真正让人印象深刻的是后面这一串画面：</p>
+<ul>
+<li>
+<p>刚买完就被套，怎么和大A如此相似，全市场就盯着我这点钱不放吗？？？</p>
+</li>
+<li>
+<p>持仓浮动从 <strong>-0.8 USD → -2.6 USD → -3.x USD</strong> 来回晃；<br>
+<img src="https://shirunhao.com/post-images/1763893245343.PNG" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>不过令人欣慰的是，工地摸鱼时候看了眼 A 股：</p>
+<ul>
+<li>上证、深成、创业板全线大跌，当天5000+家下跌，我当时真的，忍不住笑出声了。</li>
+</ul>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://shirunhao.com/post-images/1763893874133.PNG" alt="" loading="lazy"></figure>
+<p>那一刻我就心理平衡了，大家一起亏就行，原来不是我一个人被教育，大A的家人们一起挨巴掌。</p>
+<p>如果是以前在A股，只要一买就跌，我的第一反应大概是：</p>
+<ul>
+<li>是不是我买早了？</li>
+<li>要不要等反弹一点先跑？</li>
+</ul>
+<p>但这一次我太平静了，脑子里只有一句话：</p>
+<blockquote>
+<p><strong>“这只是 20 年定投计划里的第 1 格数据而已。”</strong></p>
+</blockquote>
+<hr>
+<h2 id="05-这次操作我学到的三件事">05. 这次操作，我学到的三件事</h2>
+<h3 id="1价格从来不是唯一的重点">1）价格从来不是唯一的重点</h3>
+<p>我买在了一个不算便宜的位置（接近阶段高位附近），<br>
+结果立刻体验了「刚上车就亏」的经典剧情。</p>
+<p>但如果把时间拉长到 10 年、20 年：</p>
+<ul>
+<li>今天是 589 买入，还是 585 买入，</li>
+<li>差别大概也就是几美元的波动，</li>
+<li>真正决定结果的是：<strong>我能不能坚持在市场里，把这件事做够足够久。</strong></li>
+</ul>
+<h3 id="2手续费-汇率-滑点都是成本的一部分">2）手续费、汇率、滑点，都是成本的一部分</h3>
+<p>这次换汇时，直接被 IBKR 提示「余额不够」；<br>
+也让我意识到，今后每次操作都要考虑：</p>
+<ul>
+<li>换汇成本</li>
+<li>交易佣金</li>
+<li>是否频繁买卖造成额外摩擦</li>
+</ul>
+<p>我不想把宝贵的工资，浪费在可以避免的繁杂操作上。<br>
+<strong>所以定投会以「月度」节奏为主，尽量减少无意义的进出。</strong></p>
+<h3 id="3情绪比盈亏重要得多">3）情绪，比盈亏重要得多</h3>
+<p>这次浮亏几美元，其实对我生活影响几乎为零。<br>
+真正有意思的是我的情绪：</p>
+<p>这一次，我发现自己的内心比想象中稳定一些（主要是现在和以前在A股市场相比，就那点钱，可以说内心毫无波澜）。</p>
+<hr>
+<h2 id="06-我的长期计划写在第一笔单子之后">06. 我的长期计划：写在第一笔单子之后</h2>
+<p>为了不让这次买入只停留在「情绪记忆」，<br>
+我给自己定了几个明确的规则（v1.0）：</p>
+<ol>
+<li>
+<p><strong>定投节奏：</strong></p>
+<ul>
+<li>在学生时期（2026～2027）：
+<ul>
+<li>每月目标投入 <strong>400AUD左右</strong>，</li>
+<li>换成美元后定投 QQQ（或者对应 ETF）。</li>
+</ul>
+</li>
+<li>毕业以后：
+<ul>
+<li>在有稳定 RN 收入的情况下，</li>
+<li>每月拿 <strong>工资的 20–25%</strong> 做长期投资。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>仓位原则：</strong></p>
+<ul>
+<li>目前阶段：<strong>以 QQQ 为核心，不做频繁 T</strong>；</li>
+<li>等资产达到一定体量，再考虑加入防守板块（比如VOO）。</li>
+</ul>
+</li>
+<li>
+<p><strong>操作纪律：</strong></p>
+<ul>
+<li>不盯日内波动，不以「今天绿还是红」决定买卖；</li>
+<li>不因为短期亏损就停止定投；</li>
+<li>我设置了60日线和200日线的指标，真正的大跌（比如回调 20% 以上或跌破200日线进入熊市）可以考虑<strong>适度加仓</strong>，而不是恐慌减仓。</li>
+</ul>
+</li>
+<li>
+<p><strong>记录习惯：</strong></p>
+<ul>
+<li>每次入金、换汇、买入，都在博客写一篇小短文，</li>
+<li>把金额、价格、当时的心情和想法记录下来，</li>
+<li>让未来的自己，回头能看到自己的每一次选择。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="07-写在最后从被动挨打到主动实验">07. 写在最后：从「被动挨打」，到「主动实验」</h2>
+<p>A 股那天跌了 5000 家，<br>
+QQQ 也给了我一个不太友好的开局。</p>
+<p>但我知道，这和我 20 年的计划相比，只是一个很小的噪音。</p>
+<blockquote>
+<p>以前，我总觉得自己的人生被动、运气、天意。<br>
+现在，我想试一次 ——<br>
+<strong>把命运变成一个可以写日志、做回测、看曲线的长期实验。</strong></p>
+</blockquote>
+<p>这 400 澳币，是这个实验的第一笔本金。<br>
+这 0.4244 股 QQQ，是我对未来自己投出的第一张「支持票」。</p>
+<p>如果有一天，十年之后、二十年之后的我，<br>
+在另一个地方打开这个页面，看到今天这篇实盘记录。</p>
+<p>我希望他会对现在的我说一句：</p>
+<blockquote>
+<p>“你当时真的迈出了那一步，而且没有轻易放弃。”</p>
+</blockquote>
+<hr>
+<blockquote>
+<p><strong>分类：</strong> 实盘（Invest-Log）<br>
+<strong>标签：</strong> <code>Invest-Log</code> / <code>定投</code> / <code>QQQ</code> / <code>IBKR</code> / <code>复利人生</code></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World：开启我的复利人生]]></title>
+        <id>https://shirunhao.com/post/start/</id>
+        <link href="https://shirunhao.com/post/start/">
+        </link>
+        <updated>2025-11-22T22:56:22.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>2025年11月23日</p>
+</blockquote>
+<p>终于，<code>shirunhao.com</code> 正式上线了。</p>
+<p>这是我在澳洲建立的第一个“数字基地”。<br>
+在这个博客里，我将记录作为一个 24 岁 QUT 护理硕士新生，在澳洲工地打工、定投美股、以及对抗重力的过程。</p>
+<p>未来我将在这里更新：</p>
+<ul>
+<li><strong>💸 实盘：</strong> 每月的 IBKR 美股定投实录。</li>
+<li><strong>📑 笔记：</strong> 关于财富和认知的学习笔记。</li>
+<li><strong>👨‍⚕️ 护理：</strong> QUT 学习与医院实习的生存指南。</li>
+<li><strong>🧱 生存：</strong> 黄金海岸的真实生活成本与感悟。</li>
+<li><strong>🧬 进化：</strong> 身体与心智的升级记录。</li>
+</ul>
+<p>关于我为什么要建立这个博客，请点击上方的 <a href="/post/about">关于我</a> 页面。</p>
+<p>Let the compounding begin. 🚀</p>
+]]></content>
+    </entry>
+</feed>
